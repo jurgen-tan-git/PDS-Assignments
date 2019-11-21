@@ -1,0 +1,55 @@
+# Metadata for Annual Mileage for Private Motor Vehicles
+---
+Identifier: 'e178b2c1-c7c3-42bd-9749-bddaab25dcf2'
+Name: 'annual-mileage-for-private-motor-vehicles'
+Title: 'Annual Mileage for Private Motor Vehicles'
+Description: 'Mileage survey of in-use vehicles conducted at mandatory periodic vehicle
+  inspection.'
+Topics:
+  - 'Transport'
+Keywords:
+  - 'Cars'
+  - 'Private Transport'
+  - 'Traffic'
+Publisher:
+  Name: 'Land Transport Authority'
+  Admin 1:
+    Name: 'Land Transport Authority'
+    Department: 'Land Transport Authority'
+    Email: 'Datamall@lta.gov.sg'
+Sources:
+  - 'Land Transport Authority'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Annual'
+Coverage: '2005-01-01 to 2014-12-31'
+Last Updated: '2017-06-07T09:31:36.271155'
+Resources:
+  -
+    Identifier: '7a913480-0de4-45b8-b922-18166d10d7db'
+    Title: 'Average Annual Kilometres Travelled Per Vehicle'
+    Url: 'https://storage.data.gov.sg/annual-mileage-for-private-motor-vehicles/resources/average-annual-kilometres-travelled-per-vehicle-2016-06-14T09-53-12Z.csv'
+    Format: 'CSV'
+    Coverage: '2005-01-01 to 2014-12-31'
+    Description: 'The average kilometre travelled per vehicle are estimated based
+      on mileage survey of in-use vehicles conducted at mandatory periodic vehicle
+      inspections.'
+    Last Updated: '2016-06-14T09:53:12.993725'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'vehicle_type'
+        Title: 'Vehicle Type'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'average_annual_mileage'
+        Title: 'Average Annual Mileage'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Kilometres'
+        Description: 'Average kilometre travelled'
