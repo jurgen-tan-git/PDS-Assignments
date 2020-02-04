@@ -1,0 +1,113 @@
+# Metadata for Resident University Graduates Aged 15 Years and Over by Field of Study, Country Where Highest Qualification was Attained and Sex, 2015
+---
+Identifier: '05029b83-7a45-43de-84ff-5d16f57ccf18'
+Name: 'data-gov-sg-dataset-resident-uni-grads-15-yrs-and-over-by-field-of-study-country-where-hqa-sex-2015'
+Title: 'Resident University Graduates Aged 15 Years and Over by Field of Study, Country
+  Where Highest Qualification was Attained and Sex, 2015'
+Description:
+  - 'From 1995, the General Household Survey (GHS) is conducted in between 2 Population
+    Censuses as a mid-decade mini-Census.'
+  - ''
+  - 'The General Household Survey (GHS) 2015 is the third in the series of mid-decade
+    national survey. It covers a wide range of topics and provides comprehensive data
+    on Singapore’s population and households in between the population censuses that
+    are conducted once in ten years.'
+Topics:
+  - 'Society'
+Keywords:
+  - 'Country Where Highest Qualification was Attained'
+  - 'Field of Study'
+  - 'General Household Survey'
+  - 'Resident University Graduates Aged 15 Years and Over'
+  - 'Sex'
+Publisher:
+  Name: 'Ministry of Trade and Industry - Department of Statistics'
+  Admin 1:
+    Name: 'SingStat Info'
+    Department: 'Statistics Information Services'
+    Email: 'info@singstat.gov.sg'
+Sources:
+  - 'Ministry of Trade and Industry - Department of Statistics'
+Source Url: 'http://www.tablebuilder.singstat.gov.sg/publicfacing/createSpecialTable.action?refId=9136&exportType=csv'
+License: 'https://data.gov.sg/open-data-licence'
+Frequency: 'Other'
+Coverage: '2015-01-01 to 2015-12-31'
+Last Updated: '2019-08-04T17:47:03.862017'
+Resources:
+  -
+    Identifier: 'b30a211f-675a-4ea2-a761-90c818b48538'
+    Title: 'Resident Uni Grads Aged 15 Yrs & Over by Field of Study (Total), Country
+      Where HQA & Sex'
+    Url: 'https://storage.data.gov.sg/data-gov-sg-dataset-resident-uni-grads-15-yrs-and-over-by-field-of-study-country-where-hqa-sex-2015/resources/resident-uni-grads-aged-15-yrs-over-by-field-of-study-total-country-where-hqa-sex-2019-08-04T17-47-03Z.csv'
+    Format: 'CSV'
+    Coverage: '2015-01-01 to 2015-12-31'
+    Last Updated: '2019-08-04T17:47:03.051713'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Country where Highest Qualification was Attained'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_3'
+        Title: 'Field of Study (Total)'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Thousands'
+  -
+    Identifier: '26899210-7343-46a3-9534-b259fa4ec92c'
+    Title: 'Resident Uni Grads Aged 15 Yrs & Over by Field of Study, Country Where
+      HQA & Sex'
+    Url: 'https://storage.data.gov.sg/data-gov-sg-dataset-resident-uni-grads-15-yrs-and-over-by-field-of-study-country-where-hqa-sex-2015/resources/resident-uni-grads-aged-15-yrs-over-by-field-of-study-country-where-hqa-sex-2018-05-24T07-42-14Z.csv'
+    Format: 'CSV'
+    Coverage: '2015-01-01 to 2015-12-31'
+    Last Updated: '2018-05-24T07:42:14.825104'
+    Schema:
+      -
+        Name: 'year'
+        Title: 'Year'
+        Type: 'datetime'
+        Sub Type: 'year'
+        Format: 'YYYY'
+      -
+        Name: 'level_1'
+        Title: 'Country where Highest Qualification was Attained'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_2'
+        Title: 'Sex'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_3'
+        Title: 'Field of Study (Total)'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'level_4'
+        Title: 'Field of Study'
+        Type: 'text'
+        Sub Type: 'general'
+      -
+        Name: 'value'
+        Title: 'Value'
+        Type: 'numeric'
+        Sub Type: 'general'
+        Unit Of Measure: 'Thousands'

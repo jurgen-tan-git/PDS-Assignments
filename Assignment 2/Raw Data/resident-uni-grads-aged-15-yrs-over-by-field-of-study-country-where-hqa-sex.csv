@@ -1,0 +1,325 @@
+year,level_1,level_2,level_3,level_4,value
+2015,Total,Total,Total,Education,33.6
+2015,Total,Total,Total,Fine & Applied Arts,17.5
+2015,Total,Total,Total,Humanities & Social Sciences,96.2
+2015,Total,Total,Total,Mass Communication & Information Science,18.2
+2015,Total,Total,Total,Business & Administration,274.7
+2015,Total,Total,Total,Law,14.4
+2015,Total,Total,Total,"Natural, Physical, Chemical & Mathematical Sciences",53.9
+2015,Total,Total,Total,Health Sciences,41.2
+2015,Total,Total,Total,Information Technology,67.6
+2015,Total,Total,Total,"Architecture, Building & Real Estate",19.5
+2015,Total,Total,Total,Engineering Sciences,157.6
+2015,Total,Total,Total,Others,13.5
+2015,Total,Males,Total,Education,7.9
+2015,Total,Males,Total,Fine & Applied Arts,6.3
+2015,Total,Males,Total,Humanities & Social Sciences,33.3
+2015,Total,Males,Total,Mass Communication & Information Science,5.8
+2015,Total,Males,Total,Business & Administration,125
+2015,Total,Males,Total,Law,6.6
+2015,Total,Males,Total,"Natural, Physical, Chemical & Mathematical Sciences",23.3
+2015,Total,Males,Total,Health Sciences,13.6
+2015,Total,Males,Total,Information Technology,42.5
+2015,Total,Males,Total,"Architecture, Building & Real Estate",10.2
+2015,Total,Males,Total,Engineering Sciences,123.9
+2015,Total,Males,Total,Others,7.5
+2015,Total,Females,Total,Education,25.8
+2015,Total,Females,Total,Fine & Applied Arts,11.1
+2015,Total,Females,Total,Humanities & Social Sciences,62.9
+2015,Total,Females,Total,Mass Communication & Information Science,12.4
+2015,Total,Females,Total,Business & Administration,149.8
+2015,Total,Females,Total,Law,7.8
+2015,Total,Females,Total,"Natural, Physical, Chemical & Mathematical Sciences",30.6
+2015,Total,Females,Total,Health Sciences,27.5
+2015,Total,Females,Total,Information Technology,25.2
+2015,Total,Females,Total,"Architecture, Building & Real Estate",9.4
+2015,Total,Females,Total,Engineering Sciences,33.7
+2015,Total,Females,Total,Others,6
+2015,Singapore,Total,Total,Education,25.4
+2015,Singapore,Total,Total,Fine & Applied Arts,7.9
+2015,Singapore,Total,Total,Humanities & Social Sciences,55.9
+2015,Singapore,Total,Total,Mass Communication & Information Science,10.7
+2015,Singapore,Total,Total,Business & Administration,178
+2015,Singapore,Total,Total,Law,6.6
+2015,Singapore,Total,Total,"Natural, Physical, Chemical & Mathematical Sciences",29.2
+2015,Singapore,Total,Total,Health Sciences,22.3
+2015,Singapore,Total,Total,Information Technology,32.2
+2015,Singapore,Total,Total,"Architecture, Building & Real Estate",11.7
+2015,Singapore,Total,Total,Engineering Sciences,86.6
+2015,Singapore,Total,Total,Others,7.1
+2015,Singapore,Males,Total,Education,6.4
+2015,Singapore,Males,Total,Fine & Applied Arts,3
+2015,Singapore,Males,Total,Humanities & Social Sciences,18.5
+2015,Singapore,Males,Total,Mass Communication & Information Science,3.5
+2015,Singapore,Males,Total,Business & Administration,78.5
+2015,Singapore,Males,Total,Law,3.2
+2015,Singapore,Males,Total,"Natural, Physical, Chemical & Mathematical Sciences",12.2
+2015,Singapore,Males,Total,Health Sciences,7.5
+2015,Singapore,Males,Total,Information Technology,22.1
+2015,Singapore,Males,Total,"Architecture, Building & Real Estate",5.5
+2015,Singapore,Males,Total,Engineering Sciences,67.2
+2015,Singapore,Males,Total,Others,4.2
+2015,Singapore,Females,Total,Education,19
+2015,Singapore,Females,Total,Fine & Applied Arts,5
+2015,Singapore,Females,Total,Humanities & Social Sciences,37.4
+2015,Singapore,Females,Total,Mass Communication & Information Science,7.2
+2015,Singapore,Females,Total,Business & Administration,99.5
+2015,Singapore,Females,Total,Law,3.3
+2015,Singapore,Females,Total,"Natural, Physical, Chemical & Mathematical Sciences",16.9
+2015,Singapore,Females,Total,Health Sciences,14.8
+2015,Singapore,Females,Total,Information Technology,10.1
+2015,Singapore,Females,Total,"Architecture, Building & Real Estate",6.1
+2015,Singapore,Females,Total,Engineering Sciences,19.4
+2015,Singapore,Females,Total,Others,2.9
+2015,Outside Singapore- Total,Total,Total,Education,8.2
+2015,Outside Singapore- Total,Total,Total,Fine & Applied Arts,9.6
+2015,Outside Singapore- Total,Total,Total,Humanities & Social Sciences,40.3
+2015,Outside Singapore- Total,Total,Total,Mass Communication & Information Science,7.5
+2015,Outside Singapore- Total,Total,Total,Business & Administration,96.8
+2015,Outside Singapore- Total,Total,Total,Law,7.8
+2015,Outside Singapore- Total,Total,Total,"Natural, Physical, Chemical & Mathematical Sciences",24.7
+2015,Outside Singapore- Total,Total,Total,Health Sciences,18.8
+2015,Outside Singapore- Total,Total,Total,Information Technology,35.4
+2015,Outside Singapore- Total,Total,Total,"Architecture, Building & Real Estate",7.8
+2015,Outside Singapore- Total,Total,Total,Engineering Sciences,71
+2015,Outside Singapore- Total,Total,Total,Others,6.4
+2015,Outside Singapore- Total,Males,Total,Education,1.5
+2015,Outside Singapore- Total,Males,Total,Fine & Applied Arts,3.4
+2015,Outside Singapore- Total,Males,Total,Humanities & Social Sciences,14.8
+2015,Outside Singapore- Total,Males,Total,Mass Communication & Information Science,2.3
+2015,Outside Singapore- Total,Males,Total,Business & Administration,46.5
+2015,Outside Singapore- Total,Males,Total,Law,3.4
+2015,Outside Singapore- Total,Males,Total,"Natural, Physical, Chemical & Mathematical Sciences",11.1
+2015,Outside Singapore- Total,Males,Total,Health Sciences,6.1
+2015,Outside Singapore- Total,Males,Total,Information Technology,20.3
+2015,Outside Singapore- Total,Males,Total,"Architecture, Building & Real Estate",4.6
+2015,Outside Singapore- Total,Males,Total,Engineering Sciences,56.7
+2015,Outside Singapore- Total,Males,Total,Others,3.3
+2015,Outside Singapore- Total,Females,Total,Education,6.8
+2015,Outside Singapore- Total,Females,Total,Fine & Applied Arts,6.2
+2015,Outside Singapore- Total,Females,Total,Humanities & Social Sciences,25.5
+2015,Outside Singapore- Total,Females,Total,Mass Communication & Information Science,5.2
+2015,Outside Singapore- Total,Females,Total,Business & Administration,50.3
+2015,Outside Singapore- Total,Females,Total,Law,4.5
+2015,Outside Singapore- Total,Females,Total,"Natural, Physical, Chemical & Mathematical Sciences",13.7
+2015,Outside Singapore- Total,Females,Total,Health Sciences,12.7
+2015,Outside Singapore- Total,Females,Total,Information Technology,15.1
+2015,Outside Singapore- Total,Females,Total,"Architecture, Building & Real Estate",3.2
+2015,Outside Singapore- Total,Females,Total,Engineering Sciences,14.3
+2015,Outside Singapore- Total,Females,Total,Others,3.1
+2015,Outside Singapore- UK,Total,Total,Education,1.2
+2015,Outside Singapore- UK,Total,Total,Fine & Applied Arts,2.2
+2015,Outside Singapore- UK,Total,Total,Humanities & Social Sciences,5.7
+2015,Outside Singapore- UK,Total,Total,Mass Communication & Information Science,0.6
+2015,Outside Singapore- UK,Total,Total,Business & Administration,15.8
+2015,Outside Singapore- UK,Total,Total,Law,5.3
+2015,Outside Singapore- UK,Total,Total,"Natural, Physical, Chemical & Mathematical Sciences",2.8
+2015,Outside Singapore- UK,Total,Total,Health Sciences,3.8
+2015,Outside Singapore- UK,Total,Total,Information Technology,5.5
+2015,Outside Singapore- UK,Total,Total,"Architecture, Building & Real Estate",1.9
+2015,Outside Singapore- UK,Total,Total,Engineering Sciences,15.1
+2015,Outside Singapore- UK,Total,Total,Others,1.2
+2015,Outside Singapore- UK,Males,Total,Education,0.3
+2015,Outside Singapore- UK,Males,Total,Fine & Applied Arts,0.9
+2015,Outside Singapore- UK,Males,Total,Humanities & Social Sciences,2.6
+2015,Outside Singapore- UK,Males,Total,Mass Communication & Information Science,0.2
+2015,Outside Singapore- UK,Males,Total,Business & Administration,8.9
+2015,Outside Singapore- UK,Males,Total,Law,2.4
+2015,Outside Singapore- UK,Males,Total,"Natural, Physical, Chemical & Mathematical Sciences",1.5
+2015,Outside Singapore- UK,Males,Total,Health Sciences,1.8
+2015,Outside Singapore- UK,Males,Total,Information Technology,3.9
+2015,Outside Singapore- UK,Males,Total,"Architecture, Building & Real Estate",1.3
+2015,Outside Singapore- UK,Males,Total,Engineering Sciences,13.3
+2015,Outside Singapore- UK,Males,Total,Others,0.7
+2015,Outside Singapore- UK,Females,Total,Education,0.9
+2015,Outside Singapore- UK,Females,Total,Fine & Applied Arts,1.3
+2015,Outside Singapore- UK,Females,Total,Humanities & Social Sciences,3.1
+2015,Outside Singapore- UK,Females,Total,Mass Communication & Information Science,0.4
+2015,Outside Singapore- UK,Females,Total,Business & Administration,6.9
+2015,Outside Singapore- UK,Females,Total,Law,2.9
+2015,Outside Singapore- UK,Females,Total,"Natural, Physical, Chemical & Mathematical Sciences",1.3
+2015,Outside Singapore- UK,Females,Total,Health Sciences,1.9
+2015,Outside Singapore- UK,Females,Total,Information Technology,1.6
+2015,Outside Singapore- UK,Females,Total,"Architecture, Building & Real Estate",0.6
+2015,Outside Singapore- UK,Females,Total,Engineering Sciences,1.9
+2015,Outside Singapore- UK,Females,Total,Others,0.5
+2015,Outside Singapore- USA & Canada,Total,Total,Education,1.3
+2015,Outside Singapore- USA & Canada,Total,Total,Fine & Applied Arts,1.3
+2015,Outside Singapore- USA & Canada,Total,Total,Humanities & Social Sciences,6.3
+2015,Outside Singapore- USA & Canada,Total,Total,Mass Communication & Information Science,1.4
+2015,Outside Singapore- USA & Canada,Total,Total,Business & Administration,14.9
+2015,Outside Singapore- USA & Canada,Total,Total,Law,0.5
+2015,Outside Singapore- USA & Canada,Total,Total,"Natural, Physical, Chemical & Mathematical Sciences",2.5
+2015,Outside Singapore- USA & Canada,Total,Total,Health Sciences,1.5
+2015,Outside Singapore- USA & Canada,Total,Total,Information Technology,4.1
+2015,Outside Singapore- USA & Canada,Total,Total,"Architecture, Building & Real Estate",0.4
+2015,Outside Singapore- USA & Canada,Total,Total,Engineering Sciences,6.9
+2015,Outside Singapore- USA & Canada,Total,Total,Others,0.8
+2015,Outside Singapore- USA & Canada,Males,Total,Education,0.6
+2015,Outside Singapore- USA & Canada,Males,Total,Fine & Applied Arts,0.7
+2015,Outside Singapore- USA & Canada,Males,Total,Humanities & Social Sciences,3.5
+2015,Outside Singapore- USA & Canada,Males,Total,Mass Communication & Information Science,0.4
+2015,Outside Singapore- USA & Canada,Males,Total,Business & Administration,9.4
+2015,Outside Singapore- USA & Canada,Males,Total,Law,0.2
+2015,Outside Singapore- USA & Canada,Males,Total,"Natural, Physical, Chemical & Mathematical Sciences",1.6
+2015,Outside Singapore- USA & Canada,Males,Total,Health Sciences,0.6
+2015,Outside Singapore- USA & Canada,Males,Total,Information Technology,2.5
+2015,Outside Singapore- USA & Canada,Males,Total,"Architecture, Building & Real Estate",0.1
+2015,Outside Singapore- USA & Canada,Males,Total,Engineering Sciences,6.3
+2015,Outside Singapore- USA & Canada,Males,Total,Others,0.3
+2015,Outside Singapore- USA & Canada,Females,Total,Education,0.8
+2015,Outside Singapore- USA & Canada,Females,Total,Fine & Applied Arts,0.7
+2015,Outside Singapore- USA & Canada,Females,Total,Humanities & Social Sciences,2.8
+2015,Outside Singapore- USA & Canada,Females,Total,Mass Communication & Information Science,1
+2015,Outside Singapore- USA & Canada,Females,Total,Business & Administration,5.5
+2015,Outside Singapore- USA & Canada,Females,Total,Law,0.3
+2015,Outside Singapore- USA & Canada,Females,Total,"Natural, Physical, Chemical & Mathematical Sciences",0.9
+2015,Outside Singapore- USA & Canada,Females,Total,Health Sciences,0.9
+2015,Outside Singapore- USA & Canada,Females,Total,Information Technology,1.6
+2015,Outside Singapore- USA & Canada,Females,Total,"Architecture, Building & Real Estate",0.3
+2015,Outside Singapore- USA & Canada,Females,Total,Engineering Sciences,0.6
+2015,Outside Singapore- USA & Canada,Females,Total,Others,0.5
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Education,1.6
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Fine & Applied Arts,2.3
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Humanities & Social Sciences,6.4
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Mass Communication & Information Science,3.3
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Business & Administration,29.4
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Law,0.6
+2015,Outside Singapore- Australia and New Zealand,Total,Total,"Natural, Physical, Chemical & Mathematical Sciences",4.3
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Health Sciences,5.5
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Information Technology,8.4
+2015,Outside Singapore- Australia and New Zealand,Total,Total,"Architecture, Building & Real Estate",3
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Engineering Sciences,8.8
+2015,Outside Singapore- Australia and New Zealand,Total,Total,Others,1.4
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Education,0.2
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Fine & Applied Arts,1
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Humanities & Social Sciences,3
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Mass Communication & Information Science,1.3
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Business & Administration,13.6
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Law,0.3
+2015,Outside Singapore- Australia and New Zealand,Males,Total,"Natural, Physical, Chemical & Mathematical Sciences",1.9
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Health Sciences,1.8
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Information Technology,5.2
+2015,Outside Singapore- Australia and New Zealand,Males,Total,"Architecture, Building & Real Estate",1.7
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Engineering Sciences,7.2
+2015,Outside Singapore- Australia and New Zealand,Males,Total,Others,0.9
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Education,1.4
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Fine & Applied Arts,1.3
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Humanities & Social Sciences,3.4
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Mass Communication & Information Science,2
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Business & Administration,15.8
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Law,0.3
+2015,Outside Singapore- Australia and New Zealand,Females,Total,"Natural, Physical, Chemical & Mathematical Sciences",2.3
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Health Sciences,3.8
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Information Technology,3.3
+2015,Outside Singapore- Australia and New Zealand,Females,Total,"Architecture, Building & Real Estate",1.3
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Engineering Sciences,1.6
+2015,Outside Singapore- Australia and New Zealand,Females,Total,Others,0.5
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Education,1.7
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Fine & Applied Arts,1
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Humanities & Social Sciences,3.7
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Mass Communication & Information Science,0.3
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Business & Administration,4
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Law,0.2
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,"Natural, Physical, Chemical & Mathematical Sciences",2
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Health Sciences,2
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Information Technology,1.4
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,"Architecture, Building & Real Estate",0.6
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Engineering Sciences,9.7
+2015,"Outside Singapore- China, Hong Kong and Macao",Total,Total,Others,0.6
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Education,0.2
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Fine & Applied Arts,0.3
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Humanities & Social Sciences,1
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Mass Communication & Information Science,0.2
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Business & Administration,1.1
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Law,0.1
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,"Natural, Physical, Chemical & Mathematical Sciences",1.3
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Health Sciences,0.6
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Information Technology,0.9
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,"Architecture, Building & Real Estate",0.5
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Engineering Sciences,6.6
+2015,"Outside Singapore- China, Hong Kong and Macao",Males,Total,Others,0.3
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Education,1.5
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Fine & Applied Arts,0.6
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Humanities & Social Sciences,2.7
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Mass Communication & Information Science,0.2
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Business & Administration,2.9
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Law,0.2
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,"Natural, Physical, Chemical & Mathematical Sciences",0.6
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Health Sciences,1.3
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Information Technology,0.5
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,"Architecture, Building & Real Estate",0.1
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Engineering Sciences,3.1
+2015,"Outside Singapore- China, Hong Kong and Macao",Females,Total,Others,0.2
+2015,Outside Singapore- India,Total,Total,Education,0.7
+2015,Outside Singapore- India,Total,Total,Fine & Applied Arts,0.5
+2015,Outside Singapore- India,Total,Total,Humanities & Social Sciences,5.5
+2015,Outside Singapore- India,Total,Total,Mass Communication & Information Science,0.3
+2015,Outside Singapore- India,Total,Total,Business & Administration,13.2
+2015,Outside Singapore- India,Total,Total,Law,0.4
+2015,Outside Singapore- India,Total,Total,"Natural, Physical, Chemical & Mathematical Sciences",6.5
+2015,Outside Singapore- India,Total,Total,Health Sciences,1.7
+2015,Outside Singapore- India,Total,Total,Information Technology,8.4
+2015,Outside Singapore- India,Total,Total,"Architecture, Building & Real Estate",0.2
+2015,Outside Singapore- India,Total,Total,Engineering Sciences,11.8
+2015,Outside Singapore- India,Total,Total,Others,0.4
+2015,Outside Singapore- India,Males,Total,Education,0.1
+2015,Outside Singapore- India,Males,Total,Fine & Applied Arts,0.1
+2015,Outside Singapore- India,Males,Total,Humanities & Social Sciences,0.9
+2015,Outside Singapore- India,Males,Total,Mass Communication & Information Science,0
+2015,Outside Singapore- India,Males,Total,Business & Administration,6.4
+2015,Outside Singapore- India,Males,Total,Law,0
+2015,Outside Singapore- India,Males,Total,"Natural, Physical, Chemical & Mathematical Sciences",1.9
+2015,Outside Singapore- India,Males,Total,Health Sciences,0.3
+2015,Outside Singapore- India,Males,Total,Information Technology,3.8
+2015,Outside Singapore- India,Males,Total,"Architecture, Building & Real Estate",0
+2015,Outside Singapore- India,Males,Total,Engineering Sciences,8.6
+2015,Outside Singapore- India,Males,Total,Others,0.2
+2015,Outside Singapore- India,Females,Total,Education,0.6
+2015,Outside Singapore- India,Females,Total,Fine & Applied Arts,0.5
+2015,Outside Singapore- India,Females,Total,Humanities & Social Sciences,4.6
+2015,Outside Singapore- India,Females,Total,Mass Communication & Information Science,0.3
+2015,Outside Singapore- India,Females,Total,Business & Administration,6.8
+2015,Outside Singapore- India,Females,Total,Law,0.4
+2015,Outside Singapore- India,Females,Total,"Natural, Physical, Chemical & Mathematical Sciences",4.6
+2015,Outside Singapore- India,Females,Total,Health Sciences,1.4
+2015,Outside Singapore- India,Females,Total,Information Technology,4.6
+2015,Outside Singapore- India,Females,Total,"Architecture, Building & Real Estate",0.2
+2015,Outside Singapore- India,Females,Total,Engineering Sciences,3.2
+2015,Outside Singapore- India,Females,Total,Others,0.2
+2015,Outside Singapore- Others,Total,Total,Education,1.7
+2015,Outside Singapore- Others,Total,Total,Fine & Applied Arts,2.3
+2015,Outside Singapore- Others,Total,Total,Humanities & Social Sciences,12.6
+2015,Outside Singapore- Others,Total,Total,Mass Communication & Information Science,1.5
+2015,Outside Singapore- Others,Total,Total,Business & Administration,19.5
+2015,Outside Singapore- Others,Total,Total,Law,0.8
+2015,Outside Singapore- Others,Total,Total,"Natural, Physical, Chemical & Mathematical Sciences",6.8
+2015,Outside Singapore- Others,Total,Total,Health Sciences,4.3
+2015,Outside Singapore- Others,Total,Total,Information Technology,7.6
+2015,Outside Singapore- Others,Total,Total,"Architecture, Building & Real Estate",1.8
+2015,Outside Singapore- Others,Total,Total,Engineering Sciences,18.7
+2015,Outside Singapore- Others,Total,Total,Others,1.9
+2015,Outside Singapore- Others,Males,Total,Education,0.1
+2015,Outside Singapore- Others,Males,Total,Fine & Applied Arts,0.5
+2015,Outside Singapore- Others,Males,Total,Humanities & Social Sciences,3.7
+2015,Outside Singapore- Others,Males,Total,Mass Communication & Information Science,0.2
+2015,Outside Singapore- Others,Males,Total,Business & Administration,7.1
+2015,Outside Singapore- Others,Males,Total,Law,0.4
+2015,Outside Singapore- Others,Males,Total,"Natural, Physical, Chemical & Mathematical Sciences",2.8
+2015,Outside Singapore- Others,Males,Total,Health Sciences,1
+2015,Outside Singapore- Others,Males,Total,Information Technology,4.2
+2015,Outside Singapore- Others,Males,Total,"Architecture, Building & Real Estate",1
+2015,Outside Singapore- Others,Males,Total,Engineering Sciences,14.8
+2015,Outside Singapore- Others,Males,Total,Others,0.8
+2015,Outside Singapore- Others,Females,Total,Education,1.6
+2015,Outside Singapore- Others,Females,Total,Fine & Applied Arts,1.8
+2015,Outside Singapore- Others,Females,Total,Humanities & Social Sciences,8.9
+2015,Outside Singapore- Others,Females,Total,Mass Communication & Information Science,1.3
+2015,Outside Singapore- Others,Females,Total,Business & Administration,12.4
+2015,Outside Singapore- Others,Females,Total,Law,0.4
+2015,Outside Singapore- Others,Females,Total,"Natural, Physical, Chemical & Mathematical Sciences",4
+2015,Outside Singapore- Others,Females,Total,Health Sciences,3.3
+2015,Outside Singapore- Others,Females,Total,Information Technology,3.4
+2015,Outside Singapore- Others,Females,Total,"Architecture, Building & Real Estate",0.8
+2015,Outside Singapore- Others,Females,Total,Engineering Sciences,3.9
+2015,Outside Singapore- Others,Females,Total,Others,1.1
