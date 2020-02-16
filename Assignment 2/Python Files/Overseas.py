@@ -9,7 +9,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-overseas = pd.read_csv(r"~\Desktop\School Related\PDS-Assignment-1\Assignment 2\After Cleansing\overseas_data.csv")
+overseas = pd.read_csv(r"~\Desktop\PDS-Assignment-1\Assignment 2\After Cleansing\overseas_data.csv")
 overseas
 
 

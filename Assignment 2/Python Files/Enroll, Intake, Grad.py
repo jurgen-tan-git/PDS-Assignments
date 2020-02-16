@@ -9,7 +9,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-merged = pd.read_csv(r"~\Desktop\School Related\PDS-Assignment-1\Assignment 2\After Cleansing\Merged.csv")
+merged = pd.read_csv(r"~\Desktop\PDS-Assignment-1\Assignment 2\After Cleansing\Merged.csv")
 merged = merged[merged.year >= 2000]
 # merged
 

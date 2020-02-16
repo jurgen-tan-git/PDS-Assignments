@@ -9,7 +9,7 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-employment = pd.read_csv(r"~\Desktop\School Related\PDS-Assignment-1\Assignment 2\Raw Data\graduate-employment-survey-ntu-nus-sit-smu-sutd.csv", 
+employment = pd.read_csv(r"~\Desktop\PDS-Assignment-1\Assignment 2\Raw Data\graduate-employment-survey-ntu-nus-sit-smu-sutd.csv", 
                          na_values = "na").fillna(0)
 employment = employment[employment.university == "National University of Singapore"]
 employment = employment[employment.school.isin(["Faculty of Arts & Social Sciences", "Faculty of Engineering", "Faculty of Science"])]
